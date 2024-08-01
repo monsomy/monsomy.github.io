@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://monsomy.github.io/sitemap.html.gz
+Sitemap: https://monsomy.github.io/app/sitemap.html.gz
+Sitemap: https://monsomy.github.io/assets/sitemap.html.gz
+Sitemap: https://monsomy.github.io/css/sitemap.html.gz
+Sitemap: https://monsomy.github.io/includes/sitemap.html.gz
+Sitemap: https://monsomy.github.io/item/sitemap.html.gz
+Sitemap: https://monsomy.github.io/src/sitemap.html.gz
